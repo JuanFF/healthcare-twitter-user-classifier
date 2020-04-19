@@ -4,9 +4,7 @@ This is a text classifier that categorizes user names and descriptions from heal
 
 If the input to the classifer is the following text (user name and description from the Twitter profile of the World Health Organization)
 
-<center>
 <img src = 'https://github.com/JuanFF/health-worker-classifier/blob/master/WHO.png' width="400">
-</center>
 
 User name is ```WHO```
 
