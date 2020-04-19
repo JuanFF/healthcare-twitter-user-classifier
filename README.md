@@ -4,7 +4,7 @@ This is a text classifier that categorizes user names and descriptions from heal
 
 If the input to the classifer is the following text (user name and description from the Twitter profile of the World Health Organization)
 
-![WHO](who.png)
+![WHO](./who.png)
 
 User name is ```WHO```
 
