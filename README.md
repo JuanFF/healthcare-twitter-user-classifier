@@ -4,15 +4,11 @@ This is a text classifier that categorizes user names and descriptions from heal
 
 If the input to the classifer is the following text (user name and description from the Twitter profile of the World Health Organization)
 
-<img src = 'https://github.com/JuanFF/health-worker-classifier/blob/master/WHO.png' width="375">
-
-User name is ```WHO```
-
-User description is ```We are the #UnitedNations’ health agency. We are committed to achieving better health for everyone, everywhere - #HealthForAll```
+<img src = 'https://github.com/JuanFF/health-worker-classifier/blob/master/WHO.png' width="385">
 
 Then, the classifier output tag will be ```Institution```
 
-If the user name or description is not related to healthcare, the classifier output will be ```empty```
+If the user name or description is not related to healthcare, the classifier output will then be ```empty```
 
 This is the complete list of profile tags returned by the classifier:
 
