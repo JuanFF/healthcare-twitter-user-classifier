@@ -1,4 +1,4 @@
-# health-worker-classifier
+# Healthcare Twitter User Classifier
 
 This is a text classifier that categorizes user names and descriptions from health Twitter accounts. Twitter users provide information on themselves in their user names and descriptions. This classifier reads from these fiels and returns a descriptive label for the type of health work profile.
 
