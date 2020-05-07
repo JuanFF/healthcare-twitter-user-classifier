@@ -1,10 +1,10 @@
 # health-worker-classifier
 
-This is a text classifier that categorizes user names and descriptions from health worker profiles in Twitter. Twitter users provide information on themselves in their user names and descriptions. This classifier reads from these fiels and returns a descriptive tag for the type of health work profile.
+This is a text classifier that categorizes user names and descriptions from health Twitter accounts. Twitter users provide information on themselves in their user names and descriptions. This classifier reads from these fiels and returns a descriptive label for the type of health work profile.
 
 If the input to the classifer is the following text (user name and description from the Twitter profile of the World Health Organization)
 
-<img src = 'https://github.com/JuanFF/health-worker-classifier/blob/master/WHO.png' width="400">
+<img src = 'https://github.com/JuanFF/health-worker-classifier/blob/master/WHO.png' width="375">
 
 User name is ```WHO```
 
